@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check out my website at [IsaiahIruoha.com](IsaiahIruoha.com)
 
-- 📫 How to reach me **IsaiahIruoha@gmail.com**
+- 📫 Reach me at **IsaiahIruoha@gmail.com**
 
 - 📄 Learn about my experiences [https://drive.google.com/file/d/1n0a8gj1Dlw2YS4qFNtfBll83eLOS51V6/view?usp=sharing](https://drive.google.com/file/d/1n0a8gj1Dlw2YS4qFNtfBll83eLOS51V6/view?usp=sharing)
 
