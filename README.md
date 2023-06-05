@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **IsaiahIruoha@gmail.com**
 
-- 📄 Learn about my experiences [https://drive.google.com/file/d/1n0a8gj1Dlw2YS4qFNtfBll83eLOS51V6/view?usp=sharing](https://drive.google.com/file/d/1n0a8gj1Dlw2YS4qFNtfBll83eLOS51V6/view?usp=sharing)
+- 📄 Take a look at my resume at [https://drive.google.com/file/d/1n0a8gj1Dlw2YS4qFNtfBll83eLOS51V6/view?usp=sharing](https://drive.google.com/file/d/1n0a8gj1Dlw2YS4qFNtfBll83eLOS51V6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
