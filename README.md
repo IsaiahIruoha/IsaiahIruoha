@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Isaiah Iruoha</h1>
 <h3 align="center">A Second-Year Computer Engineering Student at Queen's University with interests in Full-Stack Development and Finance</h3>
 
-- 🌱 I’m currently learning **Python, PLC Programming and SQL**
+- 🌱 I’m currently learning **Python, Relational Databases, Backend Development and APIs**
 
 - 👨‍💻 Check out my website at [IsaiahIruoha.com](IsaiahIruoha.com)
 
