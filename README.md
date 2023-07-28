@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **Python, Relational Databases, Backend Development and APIs**
 
-- 👨‍💻 Check out my website at IsaiahIruoha.com
+- 👨‍💻 Check out my website at [[IsaiahIruoha.com](IsaiahIruoha.com)]
+
 
 - 📫 Reach me at **IsaiahIruoha@gmail.com**
 
