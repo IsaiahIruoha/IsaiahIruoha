@@ -15,6 +15,6 @@
 <a href="https://instagram.com/isaiah.iruoha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isaiah.iruoha" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaiahiruoha&show_icons=true&locale=en" alt="isaiahiruoha" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaiahiruoha&show_icons=true&locale=en" alt="isaiahiruoha" /></p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isaiahiruoha&label=Profile%20views&color=0e75b6&style=flat" alt="isaiahiruoha" /> </p>
