@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Isaiah Iruoha</h1>
+<h1 align="center">Hi 👋 I'm Isaiah Iruoha</h1>
 <h3 align="center">A Second-Year Computer Engineering Student at Queen's University with interests in Full-Stack Development and Finance</h3>
 
 - 🌱 I’m currently learning **Python, Relational Databases, Backend Development and APIs**
