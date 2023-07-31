@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Isaiah</h1>
 <h3 align="center">I am Second-Year Computer Engineering Student at Queen's University with interests in Full-Stack Development and Finance</h3>
 
-- 🌱 I’m currently learning about **Python, PHP, Backend Development and APIs**
+- 🌱 I’m currently learning about **PHP, Java, Backend Development and APIs**
 
 - 👨‍💻 Check out my website at [IsaiahIruoha.com](https://isaiahiruoha.com)
 
