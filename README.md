@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Isaiah</h1>
-<h3 align="center">I am a Second-Year Computer Engineering Student at Queen's University with interests in Software Engineering and Finance</h3>
+<h3 align="center">I am a Third-Year Computer Engineering Student at Queen's University with interests in Software Engineering and Finance</h3>
 
-- 🌱 I’m currently working on **Python, Machine Learning Projects and Interview Preparation**
+- 🌱 I’m currently working on **Python, Machine Learning and Interview Preparation**
 
 - 👨‍💻 Check out my website at [IsaiahIruoha.com](https://isaiahiruoha.com)
 
