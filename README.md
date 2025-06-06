@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋 I'm Isaiah</h1>
-<h3 align="center">I am a Third-Year Computer Engineering Student at Queen's University with interests in Machine Learning and Quantitative Trading</h3>
-
-- 🌱 I’m currently working on improving my knowledge in **Deep Learning and additional Python Libraries**
+<h3 align="center">I am a Third-Year Computer Engineering Student at Queen's University with a focus in Artificial Intelligence and interests in Software Development and Quantitative Trading</h3>
 
 - 👨‍💻 Check out my website at [IsaiahIruoha.com](https://isaiahiruoha.com)
 
 - 📫 Reach me at **IsaiahIruoha@gmail.com** or **Isaiah.Iruoha@queensu.ca**
 
-- 📄 Take a look at my resume [Here](https://drive.google.com/file/d/1n0a8gj1Dlw2YS4qFNtfBll83eLOS51V6/view?usp=sharing)
+- 📄 Access my resume [Here](https://drive.google.com/file/d/1n0a8gj1Dlw2YS4qFNtfBll83eLOS51V6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
